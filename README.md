@@ -1,164 +1,192 @@
-<!--
-Hi Harsh! This is your personalized template.
-I've filled it in with info from your resumes and poster.
+<div align="center">
 
-!!! IMPORTANT !!!
-You MUST replace YOUR-USERNAME in the GitHub Stats links at the bottom
-for them to work.
--->
+# 👋 Hi there, I'm Harsh Tiwari!
 
-<!-- 1. The Header: A greeting and your name -->
+### 🚀 Full Stack Developer | Cloud Enthusiast | Problem Solver
 
-<h1 align="center">
-Hi there, I'm Harsh Tiwari! 👋
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Scalable+Solutions;10k%2B+Users+Served;Always+Learning+New+Tech" alt="Typing SVG" />
 
-<!-- 2. The Sub-header: A short blurb about you -->
+</div>
 
-<h3 align="center">
-A passionate Full Stack Developer from Mumbai, Maharashtra.
-</h3>
+---
 
-<!-- 3. Social Icons: Links to your social media -->
+<div align="center">
 
-<p align="center">
-<!-- LinkedIn -->
-<a href="https://www.google.com/search?q=https://linkedin.com/in/harsh-tiwari-b474942b4" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<!-- Twitter / X -->
-<a href="https://twitter.com/[Your-Twitter-Username]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
-</a>
-<!-- Personal Website/Portfolio -->
-<a href="https://[https://www.google.com/search?q=your-portfolio-url.com]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-333%3Fstyle%3Dfor-the-badge%26logo%3Drss%26logoColor%3Dwhite" alt="Portfolio">
-</a>
-<!-- Email -->
-<a href="mailto:tiwariharsharvind@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
-</a>
-</p>
+### 🌐 Connect With Me
 
-📝 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-tiwari-b474942b4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariharsharvind@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
-<p>
-I'm a Full Stack Developer with a love for building clean, efficient, and user-friendly applications. I thrive on solving complex problems and am always eager to learn new technologies.
+</div>
 
+---
 
+## 🎯 About Me
 
+```javascript
+const harsh = {
+    location: "Mumbai, Maharashtra 🇮🇳",
+    currentRole: "Full Stack Developer",
+    currentFocus: "Building production-level ERP & CRM systems",
+    userBase: "10,000+ active users",
+    projectsDeployed: "20+ applications",
+    learningGoal: "Scalable & accessible applications",
+    lookingFor: "Innovative open-source collaborations",
+    funFact: "I turn coffee into code ☕ → 💻"
+};
+```
 
+<div align="center">
 
+### 💭 Current Status
 
-🔭 &nbsp; I’m currently working on production-level ERP & CRM systems serving 10k+ users.
+</div>
 
-🌱 &nbsp; I’m currently learning new ways to build scalable and accessible applications.
+- 🔭 Working on **Production-level ERP & CRM systems** serving 10k+ users
+- 🌱 Learning **scalable architecture patterns** and **cloud-native technologies**
+- 👯 Open to collaborate on **innovative open-source projects**
+- 💬 Ask me about **React, Django, Cloud Architecture, or System Design**
+- ⚡ Fun fact: **I've deployed 20+ applications and counting!**
 
-👯 &nbsp; I’m looking to collaborate on innovative open-source projects.
+---
 
-📫 &nbsp; How to reach me: tiwariharsharvind@gmail.com.
+## 🏆 Achievements & Highlights
 
-⚡ &nbsp; Fun fact: I've built and deployed over 20 applications!
-</p>
+<div align="center">
 
-🏆 My Achievements
+| 🎖️ Achievement | 📝 Details |
+|:---|:---|
+| 🥇 **Google Cloud Certified** | Associate Cloud Engineer |
+| 🚀 **NeuroBridge Creator** | AI-powered platform for neurodiverse students |
+| 📈 **Enterprise Scale** | ERP & CRM serving 10,000+ users |
+| 🏆 **Top 10 Finalist** | Odoo x NMIT Bangalore (4000+ teams) |
+| 💡 **Best USP Winner** | Anvay 25 - Unique product concept |
+| 🖥️ **Top 5 Finalist** | CodeCrafters 2.0 - UI/UX Excellence |
 
-<!-- Info from your resume & poster -->
+</div>
 
-🥇   Certified Google Cloud Associate Cloud Engineer.
+---
 
-🚀   Engineered NeuroBridge, an AI-powered platform adapting content for neurodiverse students.
+## 🛠️ Tech Stack
 
-📈   Developed and deployed a large-scale ERP & CRM system serving over 10,000 users.
+<div align="center">
 
-🏆   Top 10 Finalist (out of 4000+ teams) at the Odoo x NMIT Bangalore hackathon.
+### 💻 Languages
 
-💡   Best USP Winner at Anvay 25 for unique product concept and presentation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🖥️   Top 5 Finalist at CodeCrafters 2.0 for UI/UX and logic optimization.
+### 🎨 Frontend
 
-🛠️ My Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Curated from your resume and poster -->
+### ⚙️ Backend
 
-<p align="left">
-<b>Languages</b>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### 🗄️ Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### ☁️ Cloud & DevOps
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
+---
 
-<b>Frontend</b>
+## 📊 GitHub Analytics
 
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
+</div>
 
+<div align="center">
 
+### 📈 Contribution Graph
 
-<b>Backend</b>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 
+### 🔥 Streak Stats
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6E42&currStreakLabel=00F7FF" />
 
+</div>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-393%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
+---
 
+## 🎨 Featured Projects
 
+<div align="center">
 
-<b>Database & DevOps</b>
-
-
-
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-
-</p>
-
-📊 My GitHub Stats
-
-<!--
-!!! IMPORTANT !!!
-Replace YOUR-USERNAME in the links below with your GitHub username
--->
-
-<p align="center">
-<!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR-USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue"
-alt="My GitHub Stats"
-width="400"
-/>
+<a href="https://github.com/YOUR-USERNAME/PROJECT-NAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-NAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 </a>
 
-<!-- Top Languages Card -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR-USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue"
-alt="Top Languages"
-width="320"
-/>
+<a href="https://github.com/YOUR-USERNAME/PROJECT-NAME-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-NAME-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 </a>
-</p>
+
+</div>
+
+---
+
+## 🎵 Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-YOUR-USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR-SPOTIFY-ID)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open for Opportunities
+
+**I'm actively seeking exciting projects and collaboration opportunities!**
+
+### 📬 Reach Out
+
+**Let's build something amazing together!**
+
+[![Email](https://img.shields.io/badge/tiwariharsharvind@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariharsharvind@gmail.com)
+
+---
+
+### 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75" width="100%"/>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
