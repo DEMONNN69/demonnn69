@@ -246,9 +246,12 @@ const harsh = {
 
 <div align="center">
 
-<a href="https://github.com/DEMONNN69">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DEMONNN69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&custom_title=Weekly%20Coding%20Stats" />
+<a href="https://wakatime.com/@DEMONNN69">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DEMONNN69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&custom_title=Weekly%20Coding%20Stats" />
 </a>
+
+**📝 Note:** *Stats refresh automatically every day!*
+
 
 **📝 Note:** *Connect your WakaTime account to see coding activity stats!*
 
@@ -272,7 +275,7 @@ const harsh = {
 
 <div align="center">
   
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117&textColor=FFFFFF&qColor=00F7FF&aColor=00F7FF)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117&textColor=FFFFFF&qColor=00F7FF&aColor=ffff)
 
 </div>
 
