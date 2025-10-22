@@ -38,12 +38,8 @@
 <img src="https://komarev.com/ghpvc/?username=DEMONNN69&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <br/><br/>
 
-<!-- Snake Animation eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEMONNN69/DEMONNN69/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEMONNN69/DEMONNN69/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DEMONNN69/DEMONNN69/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 </div>
 
@@ -249,11 +245,12 @@ const harsh = {
 ## ⚡ Coding Activity
 
 <div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DEMONNN69&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&layout=compact" width="49%" />
+<a href="https://github.com/DEMONNN69">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@DEMONNN69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&custom_title=Weekly%20Coding%20Stats" />
+</a>
+
+**📝 Note:** *Connect your WakaTime account to see coding activity stats!*
 
 </div>
 
@@ -270,12 +267,12 @@ const harsh = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- Random Dev Meme -->
-## 😂 Random Dev Meme
+<!-- Random Dev Joke -->
+## 😂 Random Dev Joke
 
 <div align="center">
   
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117&textColor=FFFFFF&qColor=00F7FF&aColor=00F7FF)
 
 </div>
 
