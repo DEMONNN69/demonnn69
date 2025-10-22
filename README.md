@@ -1,8 +1,10 @@
 <!--
-Hi! This is a template to get you started.
-To use it, edit all the sections in brackets [] and remove the &lt;!-- --&gt; comments.
+Hi Harsh! This is your personalized template.
+I've filled it in with info from your resumes and poster.
 
-You MUST replace YOUR-USERNAME in the GitHub Stats links for them to work.
+!!! IMPORTANT !!!
+You MUST replace YOUR-USERNAME in the GitHub Stats links at the bottom
+for them to work.
 -->
 
 <!-- 1. The Header: A greeting and your name -->
@@ -14,16 +16,14 @@ Hi there, I'm Harsh Tiwari! 👋
 <!-- 2. The Sub-header: A short blurb about you -->
 
 <h3 align="center">
-A passionate [Your Role, e.g., Full-Stack Developer, Data Scientist] from [Your Location].
+A passionate Full Stack Developer from Mumbai, Maharashtra.
 </h3>
 
 <!-- 3. Social Icons: Links to your social media -->
 
-<!-- Find more icons at: https://shields.io/ -->
-
 <p align="center">
 <!-- LinkedIn -->
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[Your-LinkedIn-Username]" target="_blank">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/harsh-tiwari-b474942b4" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
 <!-- Twitter / X -->
@@ -35,7 +35,7 @@ A passionate [Your Role, e.g., Full-Stack Developer, Data Scientist] from [Your 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-333%3Fstyle%3Dfor-the-badge%26logo%3Drss%26logoColor%3Dwhite" alt="Portfolio">
 </a>
 <!-- Email -->
-<a href="mailto:[your-email@example.com]">
+<a href="mailto:tiwariharsharvind@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
 </a>
 </p>
@@ -43,76 +43,96 @@ A passionate [Your Role, e.g., Full-Stack Developer, Data Scientist] from [Your 
 📝 About Me
 
 <p>
-I'm a [Your Role] with a love for building clean, efficient, and user-friendly applications. I thrive on solving complex problems and am always eager to learn new technologies.
+I'm a Full Stack Developer with a love for building clean, efficient, and user-friendly applications. I thrive on solving complex problems and am always eager to learn new technologies.
 
 
 
 
 
 
+🔭 &nbsp; I’m currently working on production-level ERP & CRM systems serving 10k+ users.
 
-<!-- These are just examples. Change them! -->
+🌱 &nbsp; I’m currently learning new ways to build scalable and accessible applications.
 
-🔭 &nbsp; I’m currently working on [Your Cool Project Name].
+👯 &nbsp; I’m looking to collaborate on innovative open-source projects.
 
-🌱 &nbsp; I’m currently learning [A New Technology, e.g., Go, Rust, AWS].
+📫 &nbsp; How to reach me: tiwariharsharvind@gmail.com.
 
-👯 &nbsp; I’m looking to collaborate on [Types of projects, e.g., open-source, AI].
-
-📫 &nbsp; How to reach me: [Your preferred contact method, e.g., my-email@example.com].
-
-⚡ &nbsp; Fun fact: [A fun fact about you].
+⚡ &nbsp; Fun fact: I've built and deployed over 20 applications!
 </p>
 
 🏆 My Achievements
 
-<!--
-Add things you're proud of.
-This could be certifications, talks, projects, hackathons, etc.
--->
+<!-- Info from your resume & poster -->
 
-🥇   Completed the [Certification Name] from [Platform, e.g., Coursera, AWS].
+🥇   Certified Google Cloud Associate Cloud Engineer.
 
-🚀   Launched [Project Name], which [what it does or achieved].
+🚀   Engineered NeuroBridge, an AI-powered platform adapting content for neurodiverse students.
 
-📈   Grew my [side-project/blog] to [number] users/visitors.
+📈   Developed and deployed a large-scale ERP & CRM system serving over 10,000 users.
 
-💬   Gave a talk at [Meetup/Conference Name] about [Topic].
+🏆   Top 10 Finalist (out of 4000+ teams) at the Odoo x NMIT Bangalore hackathon.
 
-🏆   Won [1st/2nd/3rd] place at the [Hackathon Name].
+💡   Best USP Winner at Anvay 25 for unique product concept and presentation.
+
+🖥️   Top 5 Finalist at CodeCrafters 2.0 for UI/UX and logic optimization.
 
 🛠️ My Tech Stack
 
-<!--
-Add or remove icons based on your stack.
-Find more icons at: https://github.com/devicons/devicon/tree/master/icons
-Or use simple badges from: https://shields.io/
--->
+<!-- Curated from your resume and poster -->
 
 <p align="left">
-<!-- Languages -->
+<b>Languages</b>
+
+
+
+
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
-<!-- Frontend -->
+
+
+<b>Frontend</b>
+
+
+
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS">
 
-<!-- Backend -->
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-393%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express.js">
+
+<b>Backend</b>
+
+
+
+
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" alt="Django">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-393%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
 
-<!-- Database & DevOps -->
 
+
+<b>Database & DevOps</b>
+
+
+
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-336791%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+
 </p>
 
 📊 My GitHub Stats
@@ -120,7 +140,6 @@ Or use simple badges from: https://shields.io/
 <!--
 !!! IMPORTANT !!!
 Replace YOUR-USERNAME in the links below with your GitHub username
-For themes, check out: https://www.google.com/search?q=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
 <p align="center">
