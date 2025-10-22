@@ -250,11 +250,6 @@ const harsh = {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DEMONNN69&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&custom_title=Weekly%20Coding%20Stats" />
 </a>
 
-**📝 Note:** *Stats refresh automatically every day!*
-
-
-**📝 Note:** *Connect your WakaTime account to see coding activity stats!*
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
